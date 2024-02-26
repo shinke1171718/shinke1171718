@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxxxxxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinke1171718
+)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
